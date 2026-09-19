@@ -23,7 +23,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ─── CONFIG ────────────────────────────────────────────────────────────────────
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"   # @BotFather থেকে নাও
+BOT_TOKEN = "8863645450:AAFDoFdf1pkKxBApZ-9nkKczKXkZKI1_lgQ"   # @BotFather থেকে নাও
 
 # ─── STATES ────────────────────────────────────────────────────────────────────
 ASK_NUMBER, ASK_AMOUNT = range(2)
